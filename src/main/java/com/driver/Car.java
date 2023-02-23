@@ -46,7 +46,7 @@ public class Car extends Vehicle {
         return gears;
     }
 
-    public boolean getIsManual() {
+    public boolean IsManual() {
         return isManual;
     }
 
